@@ -24,7 +24,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e resolução de p
 ### [📚 Projeto 1 - Landpage Manicure](https://github.com/Montagnini-luan/manicure-landpage)
 Uma simples landpage para um site de manicure utilizando HTML5 e CSS3.
 
-### [📚 Projeto 2 - Nome do Projeto](https://github.com/Montagnini-luan/manicure-landpage)
+### [📚 Projeto 2 - Dev landpage](https://github.com/Montagnini-luan/Dev-Landpage)
 Outro projeto de uma landpage utilizando HTML5 CSS3  e Javascript
 
 ## 🌱 Atualmente estou aprendendo
