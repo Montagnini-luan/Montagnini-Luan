@@ -40,4 +40,4 @@ Atualmente, estou focado em:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/luan-montagnini-1587bb219)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanmontagnini6@gmail.com)
 
-⭐️ **Não se esqueça de dar uma olhada nos meus repositórios!** ⭐️
+⭐️ **Não se esqueça de dar uma olhada nos meus repositórios!**  ⭐️
