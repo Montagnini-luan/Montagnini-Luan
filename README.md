@@ -27,13 +27,10 @@ Uma simples landpage para um site de manicure utilizando HTML5 e CSS3.
 ### [📚 Projeto 2 - Dev landpage](https://github.com/Montagnini-luan/Dev-Landpage)
 Outro projeto de uma landpage utilizando HTML5 CSS3  e Javascript
 
-## 🌱 Atualmente estou aprendendo
-
-Atualmente, estou focado em:
-
-- Aprimorar meus conhecimentos em **Phyton** e automação.
-- **Machine Learning** e **Inteligência Artificial** com Python.
-- Contribuir com projetos open-source e aprender mais sobre **Arquitetura de Software**.
+## 🌍 **Idiomas:**
+- ![Português](https://img.shields.io/badge/Português%20-%230073A8.svg?style=flat-square&logo=Brazil&logoColor=white) **Português (Brasil)** - Nativo
+- ![Inglês](https://img.shields.io/badge/Inglês%20-%230073A8.svg?style=flat-square&logo=United-States&logoColor=white) **Inglês (EUA)** - Fluente
+- ![Italiano](https://img.shields.io/badge/Italiano%20-%230073A8.svg?style=flat-square&logo=Italy&logoColor=white) **Italiano** - Intermediário
 
 ## 📫 Como me encontrar?
 
