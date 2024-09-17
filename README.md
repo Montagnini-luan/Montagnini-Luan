@@ -15,17 +15,17 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e resolução de p
 </div>
 <br/>
 
-## Linguagens mais utilizadas
+## 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montagnini-luan&layout=compact)
 
 ## 🧑‍💻 Projetos em Destaque
 
 ### [📚 Projeto 1 - Landpage Manicure](https://github.com/Montagnini-luan/manicure-landpage)
-Uma simples landpage para um site de manicure utilizando HTML5 e CSS3.
+Uma página de apresentação responsiva para um serviço de manicure, desenvolvida com HTML5 e CSS3, focando em design intuitivo e navegação simples.
 
 ### [📚 Projeto 2 - Dev landpage](https://github.com/Montagnini-luan/Dev-Landpage)
-Outro projeto de uma landpage utilizando HTML5 CSS3  e Javascript
+Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e JavaScript, oferecendo uma experiência de usuário eficiente e fluida.
 
 ## 🌍 **Idiomas:**
 - ![Português](https://img.shields.io/badge/Português%20-%230073A8.svg?style=flat-square&logo=Brazil&logoColor=white) **Português (Brasil)** - Nativo
