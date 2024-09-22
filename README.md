@@ -71,8 +71,6 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Montagnini-luan/Montagnini-luan/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ⭐️ **Não se esqueça de dar uma olhada nos meus repositórios!**  ⭐️
