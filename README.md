@@ -58,7 +58,7 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="mailto:luanmontagnini6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -73,4 +73,4 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 ###
 
-⭐️ **Não se esqueça de dar uma olhada nos meus repositórios!**  ⭐️
+<h4 align="center">⭐️ **Não se esqueça de dar uma olhada nos meus repositórios!**  ⭐️</h4>
