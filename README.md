@@ -1,40 +1,78 @@
-# 💻 Olá, eu sou Luan Montagnini!👋
+<h1 align="center">💻 Olá, eu sou Luan Montagnini!👋</h1>
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e resolução de problemas através da programação. Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
+###
 
-## 🚀 Tecnologias e Ferramentas
-<div style="display: inline-block"><br />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img aling="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img aling="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img aling="center" alt="node,js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Montagnini-luan&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Montagnini-luan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">🚀 Tecnologias e Ferramentas</h2>
 <br/>
+<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76116o91s383aqwwupbfo1b5tfqjn1650iwwwk1uzt11&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-## 📊 Estatísticas do GitHub
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montagnini-luan&layout=compact)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+</div>
 
-## 🧑‍💻 Projetos em Destaque
+###
+
+<br clear="both">
+
+###
+
+<h2 align="left">🧑‍💻 Projetos em Destaque</h2>
 
 ### [📚 Projeto 1 - Landpage Manicure](https://github.com/Montagnini-luan/manicure-landpage)
 Uma página de apresentação responsiva para um serviço de manicure, desenvolvida com HTML5 e CSS3, focando em design intuitivo e navegação simples.
-
+<br/>
 ### [📚 Projeto 2 - Dev landpage](https://github.com/Montagnini-luan/Dev-Landpage)
 Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e JavaScript, oferecendo uma experiência de usuário eficiente e fluida.
-
+<br/>
 ## 🌍 **Idiomas:**
-- ![Português](https://img.shields.io/badge/Português%20-%230073A8.svg?style=flat-square&logo=Brazil&logoColor=white) **Português (Brasil)** - Nativo
-- ![Inglês](https://img.shields.io/badge/Inglês%20-%230073A8.svg?style=flat-square&logo=United-States&logoColor=white) **Inglês (EUA)** - Fluente
-- ![Italiano](https://img.shields.io/badge/Italiano%20-%230073A8.svg?style=flat-square&logo=Italy&logoColor=white) **Italiano** - Intermediário
+- **Português (Brasil)** - Nativo
+- **Inglês (EUA)** - Fluente
+- **Italiano** - Intermediário
+   
+<h2 align="left">📫 Como me encontrar?</h2>
 
-## 📫 Como me encontrar?
+###
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/luan-montagnini-1587bb219)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanmontagnini6@gmail.com)
+<div align="center">
+  <a href="mailto:luanmontagnini6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="http://www.linkedin.com/in/luan-montagnini-1587bb219" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Montagnini-luan/Montagnini-luan/output/snake.svg" alt="Snake animation" />
+
+###
 
 ⭐️ **Não se esqueça de dar uma olhada nos meus repositórios!**  ⭐️
