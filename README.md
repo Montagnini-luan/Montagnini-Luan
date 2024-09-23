@@ -5,13 +5,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Montagnini-luan&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Montagnini-luan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+  <img height="180" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76116o91s383aqwwupbfo1b5tfqjn1650iwwwk1uzt11&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
+
+<br clear="both">
 
 ###
 
 <h2 align="left">🚀 Tecnologias e Ferramentas</h2>
 <br/>
-<img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76116o91s383aqwwupbfo1b5tfqjn1650iwwwk1uzt11&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ###
 
@@ -34,10 +37,11 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
 </div>
-
+  
 ###
 
 <br clear="both">
+
 
 ###
 
