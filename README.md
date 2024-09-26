@@ -50,12 +50,12 @@ Uma página de apresentação responsiva para um serviço de manicure, desenvolv
 <br/>
 ### [📚 Projeto 2 - Dev landpage](https://github.com/Montagnini-luan/Dev-Landpage)
 Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e JavaScript, oferecendo uma experiência de usuário eficiente e fluida.
-<br/>
+<br/><br/><br/>
 ## 🌍 **Idiomas:**
 - **Português (Brasil)** - Nativo
 - **Inglês (EUA)** - Fluente
 - **Italiano** - Intermediário
-   
+<br/><br/>   
 <h2 align="left">📫 Como me encontrar?</h2>
 
 ###
