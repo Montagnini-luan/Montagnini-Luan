@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Montagnini-luan&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Montagnini-luan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
-  <img height="180" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76116o91s383aqwwupbfo1b5tfqjn1650iwwwk1uzt11&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 <br clear="both">
@@ -19,6 +18,7 @@
 ###
 
 <div align="center">
+  <img align="right" height="180" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76116o91s383aqwwupbfo1b5tfqjn1650iwwwk1uzt11&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
@@ -34,17 +34,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="15" />
+  <img width="15" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
 </div>
   
 ###
 
-<br clear="both">
-
 
 ###
-
+<br/><br/><br/>
 <h2 align="left">🧑‍💻 Projetos em Destaque</h2>
 
 ### [📚 Projeto 1 - Landpage Manicure](https://github.com/Montagnini-luan/manicure-landpage)
