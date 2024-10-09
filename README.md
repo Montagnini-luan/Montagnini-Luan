@@ -1,14 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316a99&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0868ac&height=120&section=header"/>
 <!--<h1 align="center">💻 Olá, eu sou Luan Montagnini!👋</h1>-->
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffda4d&size=35&center=true&vCenter=true&width=1000&lines=💻+Olá,+Meu+nome+e+Luan+Montagnini!👋;Eu+sou+de+Curitiba,+PR;Eu+estudo+analise+e+desenvolvimento+de+sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=💻+Olá,+Meu+nome+e+Luan+Montagnini!👋;Eu+sou+de+Curitiba,+PR;Eu+estudo+analise+e+desenvolvimento+de+sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
  <h1></h1>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Montagnini-luan&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Montagnini-luan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Montagnini-luan&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Montagnini-luan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Montagnini-luan&theme=redical&area=true&hide_border=true&hide_title=false&line=ff652f&point=e5ce03&bg_color=09131b&color=ffffff&title_color=ff652f&area_color=ff652f&radius=0" height="256" alt="activity-graph graph"  />
 </div>
 
 <br clear="both">
@@ -65,7 +66,7 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:luanmontagnini6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -82,11 +83,11 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 <img src="https://raw.githubusercontent.com/Montagnini-luan/Montagnini-luan/output/snake.svg" alt="Snake animation" />
 
-<h4 align="center">⭐️ Não se esqueça de dar uma olhada nos meus repositórios!  ⭐️</h4>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316a99&height=120&section=footer"/>
+<h4 align="center">⭐️ Não se esqueça de dar uma olhada nos meus repositórios!  ⭐️</h4>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0868ac&height=120&section=footer"/>
