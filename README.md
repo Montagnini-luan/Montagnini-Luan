@@ -1,4 +1,8 @@
-<h1 align="center">💻 Olá, eu sou Luan Montagnini!👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316a99&height=120&section=header"/>
+<!--<h1 align="center">💻 Olá, eu sou Luan Montagnini!👋</h1>-->
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffda4d&size=35&center=true&vCenter=true&width=1000&lines=💻+Olá,+Meu+nome+e+Luan+Montagnini!👋;Eu+sou+de+Curitiba,+PR;Eu+estudo+analise+e+desenvolvimento+de+sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+ <h1></h1>
 
 ###
 
@@ -76,4 +80,13 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 ###
 
+<img src="https://raw.githubusercontent.com/Montagnini-luan/Montagnini-luan/output/snake.svg" alt="Snake animation" />
+
 <h4 align="center">⭐️ Não se esqueça de dar uma olhada nos meus repositórios!  ⭐️</h4>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=316a99&height=120&section=footer"/>
