@@ -85,7 +85,7 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Montagnini-luan}/count.svg" /></p> 
 <br></div>
 
 <h4 align="center">⭐️ Não se esqueça de dar uma olhada nos meus repositórios!  ⭐️</h4>
