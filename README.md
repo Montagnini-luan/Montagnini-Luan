@@ -1,4 +1,4 @@
-<!-- ola bem vindo ao meu repositorio, fique livre para copiar qualquer elemento do meu codigo.-->
+<!-- ola bem vindo ao meu repositorio-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0868ac&height=120&section=header"/> 
 
