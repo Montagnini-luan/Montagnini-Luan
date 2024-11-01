@@ -92,3 +92,5 @@ Uma landing page clean e moderna para desenvolvedores, criada com HTML5, CSS3 e 
 <h4 align="center">⭐️ Não se esqueça de dar uma olhada nos meus repositórios!  ⭐️</h4>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0868ac&height=120&section=footer"/>
+
+<!--até mais-->
