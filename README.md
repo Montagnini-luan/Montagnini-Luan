@@ -57,7 +57,7 @@
 <br/><br/><br/>
 <h2 align="left">🧑‍💻 Projetos em Destaque</h2>
 
-### [📚 Projeto 1 - Landpage Manicure](https://github.com/Montagnini-luan/Site-completo-com-Python)
+### [📚 Projeto 1 - Pinterest Clone com Python](https://github.com/Montagnini-luan/Site-completo-com-Python)
 O Projeto de Análise de Dados do Pinterest tem como objetivo explorar e entender dados provenientes da rede social Pinterest, utilizando ferramentas de ciência de dados em Python. Através da coleta via API, os dados são limpos, analisados estatisticamente e visualizados para identificar padrões de comportamento e métricas de engajamento dos usuários. É uma aplicação prática de análise de mídias sociais com foco em extração de insights relevantes.
 <br/>
 ### [📚 Projeto 2 - Dev landpage](https://github.com/Montagnini-luan/Dev-Landpage)
